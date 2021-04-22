@@ -1,0 +1,2 @@
+# QuoteLiteDll
+QuoteLite API
